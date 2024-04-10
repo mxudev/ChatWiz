@@ -1,6 +1,8 @@
 # ChatWiz
 Stack overflow but for LLM generated answers.
 
+Devpost: https://devpost.com/software/visualizer-idr2ej
+
 # Features
 - Generate many AI responses to a single question, ranked in order by human users (by an upvote system)
 - Instantly find related questions (vector-search implemented using MongoDB Atlas)
