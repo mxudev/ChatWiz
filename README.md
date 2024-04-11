@@ -1,5 +1,6 @@
 # ChatWiz
 Stack overflow but for LLM generated answers.
+![original](https://github.com/mxudev/ChatWiz/assets/75885199/e77b4ffd-8675-40a0-8f67-758bb2126629)
 
 Devpost: https://devpost.com/software/visualizer-idr2ej
 
